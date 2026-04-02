@@ -1,6 +1,5 @@
 {
   "name": "ufo-analytics-proxy",
   "version": "1.0.0",
-  "description": "UFO Group Analytics — Vercel Proxy",
-  "private": true
+  "description": "UFO Group Analytics — Vercel Proxy"
 }
